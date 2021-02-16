@@ -5,11 +5,18 @@
 
   padding: 36px 16px;
 
-  overflow: hidden;
+  //overflow: hidden;
+
+  height: 85vh;
 
   display: flex;
   flex-direction: row;
   align-items: center;
+
+  @include responsive() {
+    flex-direction: column;
+    height: auto;
+  }
 }
 
 .container-item-1 {
@@ -23,9 +30,26 @@
 .container-item-2 {
 }
 
+.flex {
+  display: flex;
+}
+
+.w-auto {
+  width: auto;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
 .cris {
     width: 120%;
     transform: translate3d(-70px, 0, 0);
+
+    @include responsive() {
+      width: 100%;
+      transform: translate3d(0, 0, 0);
+    }
 }
 
 .btn {
