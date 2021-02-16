@@ -74,8 +74,22 @@
     </div>
 
     <div class="container-item-2">
-      <img src="img/cr7.png" class="cris" alt="Image Cristiano Ronaldo">
+      <div class="js-tilt">
+        <img src="img/cr7.png" class="cris" alt="Image Cristiano Ronaldo">
+      </div>
     </div>
   </section>
+
+  <!-- ============ JS ============== -->
+  <script src="js/app.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>
+  <script src="js/tilt.jquery.min.js"></script>
+
+  <script>
+    $('.js-tilt').tilt({
+      perspective: 2000,
+      scale: 1.05
+    });
+  </script>
 </body>
 </html>
