@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#language">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MateusJSouza/">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MateusJSouza/CristianoRonaldo-FanSite">
   </a>
   
   <a href="#repository-size">
