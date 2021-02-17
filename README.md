@@ -35,8 +35,8 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#tech">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 ## 🚀 Technologies 
-This project was developed by me the following technologies:
+<p id="#tech">This project was developed by me the following technologies:</p>
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
@@ -62,7 +62,7 @@ This project was developed by me the following technologies:
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/MateusJSouza/BotaoPesquisaGoogle/blob/main/LICENSE) for more information.
+<p id="#license">This project is under the MIT license. See the [LICENSE](https://github.com/MateusJSouza/BotaoPesquisaGoogle/blob/main/LICENSE) for more information.</p>
 
 ---
 
