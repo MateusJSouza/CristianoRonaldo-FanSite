@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="video/" alt="Gif da aplicação rodando">
+  <img src="video/cristiano.gif" alt="Gif da aplicação rodando">
 </p>
 
 <p align="center">
