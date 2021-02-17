@@ -7,12 +7,14 @@
 @keyframes logo-cristiano {
     0% {
         stroke-width: 0;
+        stroke-dasharray: 1 100;
         fill: transparent;
     }
 
     25% {
         stroke-width: 1;
         fill: transparent;
+        stroke-dasharray: 100 0;
     }
 
     60%, 100% {
