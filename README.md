@@ -62,7 +62,7 @@
 
 ## 📝 License
 
-<p id="#license">This project is under the MIT license. See the [LICENSE](https://github.com/MateusJSouza/BotaoPesquisaGoogle/blob/main/LICENSE) for more information.</p>
+<p id="#license">This project is under the MIT license. See the [LICENSE](https://github.com/MateusJSouza/CristianoRonaldo-FanSite/blob/main/LICENSE) for more information.</p>
 
 ---
 
